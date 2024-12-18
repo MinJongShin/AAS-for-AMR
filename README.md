@@ -17,3 +17,7 @@
 ![슬라이드16](https://github.com/user-attachments/assets/d6e2e36f-e803-4acc-a51f-b1c0afcde041)
 ![슬라이드17](https://github.com/user-attachments/assets/faafc2ff-7c3a-4118-a50b-cc5beb07e5fb)
 ![슬라이드18](https://github.com/user-attachments/assets/4b2d82a6-c18b-4de7-b8c2-8d0ac64bb411)
+
+## Acknowledgments
+
+이 논문은 2022년도 정부(과학기술정보통신부)의 재원으로 정보통신기획평가원의 지원(No.RS-2022-00155911, 인공지능융합혁신인재양성(경희대학교))으로 수행된 연구임.
